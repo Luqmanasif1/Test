@@ -51,7 +51,7 @@ Widget Total(String title, double total) {
         title,
         style: const TextStyle(fontSize: 15, fontWeight: FontWeight.w400),
       ),
-      Text(total.toString()),
+      Text(total.toString())
     ],
   );
 }
